@@ -16,9 +16,9 @@ This is a collection of various projects and ideas developed by myself. Down bel
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Flytrap/Flytrap.png?raw=true)
 
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Flytrap/Flytrap%20section%20view.png?raw=true)
-
-![](https://github.com/ViktorJager/CAD-Projects/blob/master/3D%20Printing/Upgraded%20Parts/Anet%20A8/Extended%20Fan%20Duct/img.png?raw=true)
 ***
 
 ### Modified Fan Duct for 3D Printer
+![](https://github.com/ViktorJager/CAD-Projects/blob/master/3D%20Printing/Upgraded%20Parts/Anet%20A8/Extended%20Fan%20Duct/img.png?raw=true)
+
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/3D%20Printing/Upgraded%20Parts/Anet%20A8/Extended%20Fan%20Duct/printed%20ducts.jpg?raw=true)
