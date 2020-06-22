@@ -22,3 +22,10 @@ This is a collection of various projects and ideas developed by myself. Down bel
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/3D%20Printing/Upgraded%20Parts/Anet%20A8/Extended%20Fan%20Duct/img.png?raw=true)
 
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/3D%20Printing/Upgraded%20Parts/Anet%20A8/Extended%20Fan%20Duct/printed%20ducts.jpg?raw=true)
+
+## Joycon stand for Nintendo Switch
+![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/JoyconStand_SpaceHexagon.PNG?raw=true)
+
+![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/printed%20back.jpg?raw=true)
+
+![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/printed%20front.jpg?raw=true)
