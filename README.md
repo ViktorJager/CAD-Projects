@@ -26,6 +26,6 @@ This is a collection of various projects and ideas developed by myself. Down bel
 ## Joycon stand for Nintendo Switch
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/JoyconStand_SpaceHexagon.PNG?raw=true)
 
-![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/printed%20back.jpg?raw=true)
-
 ![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/printed%20front.jpg?raw=true)
+
+![](https://github.com/ViktorJager/CAD-Projects/blob/master/Various%20Objects/Joycon%20Stand%20for%20Nintendo%20Switch/SpaceHexagon/printed%20back.jpg?raw=true)
