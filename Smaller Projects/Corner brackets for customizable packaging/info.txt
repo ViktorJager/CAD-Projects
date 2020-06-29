@@ -1,0 +1,6 @@
+Small project for customizable packaging.
+
+I noticed that I always struggled to find suitable sized box when sending my packages. 
+Often times I would have cardboard on hand but it was either too big and increased the shipment costs or simply too small.
+With these corner brackets you just have to cut 6 pieces of cardboard and tape them together in order to make a box with a 
+perfect fit for the item that is to be shipped.
